@@ -1,0 +1,72 @@
+const data = {
+    products: [
+        {
+            _id: '1',
+            name: 'Torta Oreo',
+            category: 'Torta',
+            image: '/images/Torta1.jpg',
+            price: 400,
+            brand: 'Chole',
+            rating: 4.5,
+            numReviews: 10,
+            description: 'Rica',
+        },
+        {
+            _id: '2',
+            name: 'Torta asd',
+            category: 'Torta',
+            image: '/images/Torta2.jpg',
+            price: 200,
+            brand: 'Chole',
+            rating: 4,
+            numReviews: 10,
+            description: 'Rica',
+        },
+        {
+            _id: '3',
+            name: 'Torta wer',
+            category: 'Torta',
+            image: '/images/Torta3.jpg',
+            price: 250,
+            brand: 'Chole',
+            rating: 5,
+            numReviews: 10,
+            description: 'Rica',
+        },
+        {
+            _id: '4',
+            name: 'Torta Oreo',
+            category: 'Torta',
+            image: '/images/Torta4.jpg',
+            price: 450,
+            brand: 'Chole',
+            rating: 4.8,
+            numReviews: 10,
+            description: 'Rica',
+        },
+        {
+            _id: '5',
+            name: 'Torta Oreo',
+            category: 'Torta',
+            image: '/images/Torta5.jpg',
+            price: 360,
+            brand: 'Chole',
+            rating: 4.6,
+            numReviews: 10,
+            description: 'Rica',
+        },
+        {
+            _id: '6',
+            name: 'Torta Oreo',
+            category: 'Torta',
+            image: '/images/Torta6.jpg',
+            price: 390,
+            brand: 'Chole',
+            rating: 4.5,
+            numReviews: 10,
+            description: 'Rica',
+        }
+    ]
+}
+
+export default data;
